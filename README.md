@@ -42,14 +42,11 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
   <img src="https://velog-readme-stats.vercel.app/api?name=draco94" alt="Top Langs" width="100%" />
 </a>
 
-
 ## 🗣️ Let's Connect
 Whether it's a collaboration or just a chat, I'm always open to connect with fellow data enthusiasts and tech innovators.
 
-<div align="center">
-  <a href="mailto:lightyear94122@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lightyear94122%40gmail.com-blue?style=flat-square&logo=gmail" />
-  </a>
-</div>
+<a href="mailto:lightyear94122@gmail.com">
+  <img src="https://img.shields.io/badge/Email-lightyear94122%40gmail.com-blue?style=flat-square&logo=gmail" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=150&section=footer" />
