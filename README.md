@@ -16,11 +16,7 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
 
 [![data-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark)](https://github.com/data-jeong)
 
-## 💻 Language Usage
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong&layout=compact" />
-</div>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Data-Driven Projects
 <details>
@@ -40,9 +36,7 @@ Whether it's a collaboration or just a chat, I'm always open to connect with fel
 
 ### 📚 Latest from My Blog
 <div align="center">
-  <a href="https://velog.io/@draco94">
-    <img src="https://velog-readme-stats.vercel.app/api/list?name=draco94&limit=1" width="100%" />
-  </a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=draco94)](https://velog.io/@draco94)
 </div>
 
 
