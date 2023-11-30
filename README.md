@@ -10,7 +10,6 @@ As a fervent Marketing Data Scientist, I blend the art of marketing with the sci
 ## 🛠️ Technical Toolbox
 Armed with a suite of tools from Python to PowerBI, I turn data into compelling stories and actionable intelligence.
 
-<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -18,7 +17,6 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
 ## 📈 Data-Driven Projects
 <details>
@@ -37,10 +35,8 @@ Whether it's a collaboration or just a chat, I'm always open to connect with fel
 </div>
 
 ### 📚 Latest from My Blog
-<div align="center">
-  <a href="https://velog.io/@draco94">
-    <img src="https://velog-readme-stats.vercel.app/api?name=draco94" />
-  </a>
-</div>
+<a href="https://velog.io/@draco94">
+  <img src="https://velog-readme-stats.vercel.app/api?name=draco94" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=150&section=footer" />
