@@ -1,7 +1,7 @@
 # 🚀 Welcome to @data-jeong's GitHub Universe
 
 <div align="center">
-  <img src="[[Your Image URL]](https://velog.velcdn.com/images/draco94/post/ec585efd-24bf-40ec-a541-b0b0caa82787/image.png)" />
+  <img src="https://velog.velcdn.com/images/draco94/post/ec585efd-24bf-40ec-a541-b0b0caa82787/image.png" />
 </div>
 
 ## 💻 Language Usage
