@@ -10,7 +10,7 @@ As a fervent Marketing Data Scientist, I blend the art of marketing with the sci
 ## 🛠️ Technical Toolbox
 <div align="center">
   
-  <a href="https://git.io/streak-stats" style="display: inline-block; width: 50%;">
+  <a href="https://git.io/streak-stats" style="display: inline-block; width: 60%;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000" alt="GitHub Streak" width="45%" />
   </a>
   <a href="https://github.com/data-jeong" style="display: inline-block; width: 50%;">
