@@ -37,4 +37,4 @@ Whether it's a collaboration or just a chat, I'm always open to connect with fel
 <a href="mailto:lightyear94122@gmail.com">
   <img src="https://img.shields.io/badge/Email-lightyear94122%40gmail.com-blue?style=flat-square&logo=gmail" />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=20&section=footer" />
