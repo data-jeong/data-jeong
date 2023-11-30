@@ -4,11 +4,6 @@
   <img src="https://velog.velcdn.com/images/draco94/post/ec585efd-24bf-40ec-a541-b0b0caa82787/image.png" />
 </div>
 
-## 💻 Language Usage
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong&layout=compact" />
-</div>
-
 ## 🌟 About Me
 As a fervent Marketing Data Scientist, I blend the art of marketing with the science of data to uncover insights and strategies. I revel in the challenge of coding and planning, crafting narratives that transform data into impactful business decisions.
 
@@ -21,6 +16,10 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
 
 [![data-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark)](https://github.com/data-jeong)
 
+## 💻 Language Usage
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong&layout=compact" />
+</div>
 </div>
 
 ## 📈 Data-Driven Projects
@@ -41,7 +40,6 @@ Whether it's a collaboration or just a chat, I'm always open to connect with fel
 
 ### 📚 Latest from My Blog
 <div align="center">
-  <!-- Change the 'name' parameter value to your Velog username -->
   <a href="https://velog.io/@draco94">
     <img src="https://velog-readme-stats.vercel.app/api/list?name=draco94&limit=1" width="100%" />
   </a>
