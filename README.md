@@ -1,7 +1,7 @@
 # 🚀 Welcome to @data-jeong's GitHub Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5000&color=F7F7F7&center=true&vCenter=true&width=440&height=45&lines=Unraveling+Data+Mysteries;Crafting+Marketing+Strategies;Coding+%26+Designing+with+Passion" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5000&color=F7F7F7&center=true&vCenter=true&width=480&height=45&lines=Unraveling+Data+Mysteries;Crafting+Marketing+Strategies;Coding+%26+Designing+with+Passion" />
 </div>
 
 ## 🌟 About Me
