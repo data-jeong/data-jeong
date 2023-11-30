@@ -13,15 +13,15 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
 <div align="center">
 
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000" alt="GitHub Streak" width="30%" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000" alt="GitHub Streak" width="50%" />
   </a>
 
   <a href="https://github.com/data-jeong">
-    <img src="https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark" alt="data-jeong's GitHub Stats" width="30%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark" alt="data-jeong's GitHub Stats" width="50%" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong" alt="Top Langs" width="30%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong" alt="Top Langs" width="100%" />
   </a>
 
 </div>
