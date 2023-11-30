@@ -14,7 +14,7 @@ As a fervent Marketing Data Scientist, I blend the art of marketing with the sci
     <img src="http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000" alt="GitHub Streak" width="55%" />
   </a>
   <a href="https://github.com/data-jeong" style="display: inline-block; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark" alt="data-jeong's GitHub Stats" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark" alt="data-jeong's GitHub Stats" width="40%" />
   </a>
 </div>
 
