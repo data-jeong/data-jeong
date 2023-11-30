@@ -10,13 +10,21 @@ As a fervent Marketing Data Scientist, I blend the art of marketing with the sci
 ## 🛠️ Technical Toolbox
 Armed with a suite of tools from Python to PowerBI, I turn data into compelling stories and actionable intelligence.
 
+<div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000" alt="GitHub Streak" width="30%" />
+  </a>
 
-[![data-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark)](https://github.com/data-jeong)
+  <a href="https://github.com/data-jeong">
+    <img src="https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark" alt="data-jeong's GitHub Stats" width="30%" />
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong" alt="Top Langs" width="30%" />
+  </a>
 
+</div>
 
 ## 📈 Data-Driven Projects
 <details>
