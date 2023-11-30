@@ -1,45 +1,40 @@
-# 🚀 @data-jeong's Odyssey
+# 🚀 Welcome to @data-jeong's GitHub Universe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=F7F7F7&multiline=true&width=435&height=70&lines=Exploring+the+Universe+of+Data;Crafting+Pathways+in+the+Tech+Frontier;Every+Day+Brings+a+New+Code+to+Decipher)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5000&color=F7F7F7&center=true&vCenter=true&width=440&height=45&lines=Unraveling+Data+Mysteries;Crafting+Marketing+Strategies;Coding+%26+Designing+with+Passion" />
+</div>
 
-## 🌌 Coding Cosmos Explorer
-Unraveling data mysteries, transforming complex patterns into navigational maps for business expeditions.
+## 🌟 About Me
+As a fervent Marketing Data Scientist, I blend the art of marketing with the science of data to uncover insights and strategies. I revel in the challenge of coding and planning, crafting narratives that transform data into impactful business decisions.
 
-## 🌟 Artisan of Future Tech
-Crafting futuristic ed-tech gadgets with LLM and Stable Diffusion tools to guide learners on their knowledge quest.
-
-## 🤝 Collaborative Pioneer
-Forging new paths in the uncharted realms of SaaS innovation and the Flutter galaxy.
-
-## 📡 Connect for Technological Adventures
-For collaborations or interstellar chats, reach out at lightyear94122@gmail.com.
+## 🛠️ Technical Toolbox
+Armed with a suite of tools from Python to PowerBI, I turn data into compelling stories and actionable intelligence.
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![data-jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark)](https://github.com/data-jeong)
 
 </div>
 
-### 📚 Recent Velog Posts
+## 📈 Data-Driven Projects
 <details>
-<summary>Click to view my latest posts!</summary>
+<summary>🔍 View My Project Portfolio</summary>
 <br>
-
-<p align="center">
-  <a href="https://velog.io/@draco94/Post1">
-    <img src="https://velog-readme-stats.vercel.app/api?name=draco94&slug=Post1" width="30%" />
-  </a>
-  <a href="https://velog.io/@draco94/Post2">
-    <img src="https://velog-readme-stats.vercel.app/api?name=draco94&slug=Post2" width="30%" />
-  </a>
-  <a href="https://velog.io/@draco94/Post3">
-    <img src="https://velog-readme-stats.vercel.app/api?name=draco94&slug=Post3" width="30%" />
-  </a>
-</p>
+<!-- Your project list here -->
 </details>
+
+## 🗣️ Let's Connect
+Whether it's a collaboration or just a chat, I'm always open to connect with fellow data enthusiasts and tech innovators.
+
+<div align="center">
+  <a href="mailto:lightyear94122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lightyear94122%40gmail.com-blue?style=flat-square&logo=gmail" />
+  </a>
+</div>
+
+### 📚 Latest from My Blog
+<!-- Velog posts here -->
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=150&section=footer" />
