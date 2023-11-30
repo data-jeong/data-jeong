@@ -36,5 +36,11 @@ Whether it's a collaboration or just a chat, I'm always open to connect with fel
 
 ### 📚 Latest from My Blog
 <!-- Velog posts here -->
+<div align="center">
+  <!-- Change the 'name' parameter value to your Velog username -->
+  <a href="https://velog.io/@draco94">
+    <img src="https://velog-readme-stats.vercel.app/api/list?name=draco94&limit=3" width="100%" />
+  </a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=150&section=footer" />
