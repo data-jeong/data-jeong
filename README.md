@@ -27,8 +27,8 @@ As a fervent Marketing Data Scientist, I blend the art of marketing with the sci
 </details>
 
 ### 📚 Latest from My Blog
-<a href="https://velog.io/@draco94" style="display: inline-block; width: 80%;">
-  <img src="https://velog-readme-stats.vercel.app/api?name=draco94" alt="Top Langs" width="100%" />
+<a href="https://velog.io/@draco94" style="display: inline-block; width: 100%;">
+  <img src="https://velog-readme-stats.vercel.app/api?name=draco94" alt="Top Langs" width="80%" />
 </a>
 
 ## 🗣️ Let's Connect
