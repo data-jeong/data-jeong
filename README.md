@@ -12,20 +12,20 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
 
 <div align="center">
   
-  <a href="https://git.io/streak-stats" style="display: inline-block; width: 50%;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000" alt="GitHub Streak" width="100%" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong" alt="Top Langs" width="100%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong" alt="Top Langs"/>
   </a>
 
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/data-jeong" style="display: inline-block; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark" alt="data-jeong's GitHub Stats" width="100%" />
+  <a href="https://github.com/data-jeong" style="display: ">
+    <img src="https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark" alt="data-jeong's GitHub Stats"/>
   </a>
 </div>
 
@@ -38,8 +38,8 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
 </details>
 
 ### 📚 Latest from My Blog
-<a href="https://velog.io/@draco94" style="display: inline-block; width: 100%;">
-  <img src="https://velog-readme-stats.vercel.app/api?name=draco94" alt="Top Langs" width="100%" />
+<a href="https://velog.io/@draco94" >
+  <img src="https://velog-readme-stats.vercel.app/api?name=draco94" alt="Top Langs"/>
 </a>
 
 ## 🗣️ Let's Connect
