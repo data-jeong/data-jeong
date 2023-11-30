@@ -37,6 +37,12 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
 <!-- Your project list here -->
 </details>
 
+### 📚 Latest from My Blog
+<a href="https://velog.io/@draco94" style="display: inline-block; width: 100%;">
+  <img src="https://velog-readme-stats.vercel.app/api?name=draco94" alt="Top Langs" width="100%" />
+</a>
+
+
 ## 🗣️ Let's Connect
 Whether it's a collaboration or just a chat, I'm always open to connect with fellow data enthusiasts and tech innovators.
 
@@ -45,10 +51,5 @@ Whether it's a collaboration or just a chat, I'm always open to connect with fel
     <img src="https://img.shields.io/badge/Email-lightyear94122%40gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
 </div>
-
-### 📚 Latest from My Blog
-<a href="https://velog.io/@draco94">
-  <img src="https://velog-readme-stats.vercel.app/api?name=draco94" />
-</a>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=150&section=footer" />
