@@ -19,7 +19,9 @@ Armed with a suite of tools from Python to PowerBI, I turn data into compelling 
   <a href="https://github.com/data-jeong">
     <img src="https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark" alt="data-jeong's GitHub Stats" width="50%" />
   </a>
+</div>
 
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong" alt="Top Langs" width="100%" />
   </a>
