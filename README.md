@@ -11,3 +11,5 @@ Dive into the constellation of @data-jeong, where each `README.md` is a beacon o
 [![Space-Time Commits](https://github-readme-stats.vercel.app/api?username=data-jeong&show_icons=true&theme=vision-friendly-dark)](https://github.com/data-jeong)
 
 [![Galactic Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=data-jeong&layout=compact&theme=vision-friendly-dark)](https://github.com/data-jeong)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=data-jeong&theme=merko)](https://git.io/streak-stats)
